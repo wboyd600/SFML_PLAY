@@ -1,0 +1,16 @@
+﻿  SFML_PLAY.cpp
+c:\users\wesley\source\repos\sfml_play\sfml_play\trianglesrandom.h(36): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+c:\users\wesley\source\repos\sfml_play\sfml_play\trianglesrandom.h(36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\wesley\source\repos\sfml_play\sfml_play\trianglesrandom.h(37): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+c:\users\wesley\source\repos\sfml_play\sfml_play\trianglesrandom.h(183): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\wesley\source\repos\sfml_play\sfml_play\trianglesrandom.h(184): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\wesley\source\repos\sfml_play\sfml_play\trianglesrandom.h(188): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFML_PLAY.vcxproj -> C:\Users\Wesley\source\repos\SFML_PLAY\Debug\SFML_PLAY.exe

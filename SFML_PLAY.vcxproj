@@ -154,8 +154,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="D:\CLionProjects\Happy\BeginningStucts.h" />
+    <ClInclude Include="misc.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="SpiralSpinner.h" />
     <ClInclude Include="TrianglesRandom.h" />
   </ItemGroup>
   <ItemGroup>
@@ -169,9 +172,6 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="SFML_PLAY.rc" />
-  </ItemGroup>
-  <ItemGroup>
-    <Font Include="OLDENGL.TTF" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
